@@ -20,7 +20,7 @@ public class Test {
 ```
 {errno=0.0, errmsg=, data=中国, 
 {code=0, data=湖南怀化 联通, province=湖南, city=怀化, isp=联通, tel=132****1226}
-{att=安徽省宣城市宣州区, postno=242000, areano=0563, idcard=342501**********17, born=19894年12月23日, sex=女, styleCitynm=中华人民共和国,湖南省,怀化市, styleSimcall=中国,湖南，怀化}
+{att=湖南怀化, postno=242000, areano=0563, idcard=342501**********17, born=19894年12月23日, sex=女, styleCitynm=中华人民共和国,湖南省,怀化市, styleSimcall=中国,湖南，怀化}
 {bankCode=CMB, stat=ok, cardType=储蓄卡, messages=[], CMB=招商银行, cardTypeCode=DC, cardNumber=621********903}
 ```
 
